@@ -28,12 +28,12 @@ Estudante de tecnlogia e design.
 ### GitHub Status
 
 
-<a href="https://github.com/EvieOne/EvieOne">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvieOne&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/evesama/evesama">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evesama&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 
-<a href="https://github.com/EvieOne/EvieOne">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EvieOne&show_icons=true&theme=dracula" alt="Evelin GitHub Stats" />
+<a href="https://github.com/evesama/evesama">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=evesama&show_icons=true&theme=dracula" alt="Evelin GitHub Stats" />
 </a>
 
